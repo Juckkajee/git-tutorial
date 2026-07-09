@@ -5,3 +5,6 @@
     echo "Kaido";
     echo "Sasuke";
 ?>
+    echo "KorMadiKub";
+    echo "Shisuka";
+?>
